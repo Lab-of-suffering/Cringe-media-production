@@ -1,3 +1,4 @@
 .env
 *.ttf
 *.venv
+/image_outputs
