@@ -1,7 +1,4 @@
 .env
-*.jpg
 *.otf
 *.ttf
-*.jpeg
-*.png
 *.venv
