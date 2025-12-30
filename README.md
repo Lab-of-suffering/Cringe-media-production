@@ -16,6 +16,15 @@ The project will be implemented as a **Telegram bot** for maximum accessibility.
 - 👵🧑‍💻 **Target audience**: grandmothers and zoomers  
 - ⏱ **Why it matters**: saves time, sparks creativity, and makes sharing greetings easier & funnier
 
+## Result example
+
+### Russian New Year postcard
+
+https://github.com/user-attachments/assets/2f78af6e-eb52-4b36-aa62-aa5832627de3
+
+
+
+
 ## How to run the project
 1) Clone the repo
 2) Make .env file with API keys from replicate.com and shotstack.io similar to .env.example
